@@ -1,0 +1,59 @@
+
+#body{
+    /* background-color; */
+    font-size: 14px;
+}
+
+input, #selectpart,#department{
+    font-size:15px;
+}
+p{
+    color:yellow;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.nav-item :hover{
+    background-color:silver;
+    color:red;
+}
+.production-menu{
+    width:80%;
+    height: 400px;
+    background-color:slategray;
+    margin: auto;
+    text-align: left;
+    padding-left:10%;
+}
+.user-input-p{
+    padding-left:20%;
+}
+#mqty{
+    text-align: right;
+}
+
+#selectbtn{
+    width:150px;
+}
+.productionbtn{
+    width:150px;
+    background-color: blue;
+    color:white;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+#current-date, #pqty{
+    width:200px;
+    background-color:yellow;
+    color:red;
+}
+
+#label{
+    background-color:blue;
+    color:white;
+    margin-bottom:0;
+    margin-top:10px;
+
+}
+#pqty{text-align: right}

@@ -1,0 +1,65 @@
+
+#body{
+    /* background-color; */
+    font-size: 14px;
+}
+p{
+    color:blue;
+    font-weight: bold;
+    font-size: 20px;
+}
+.nav-item :hover{
+    background-color:silver;
+    color:red;
+}
+.user-menu{
+    width:80%;
+    height: 400px;
+    background-color:seagreen;
+    margin: auto;
+    text-align: left;
+    padding-left:10%;
+}
+.user-input-u{
+    width:50%;
+    margin:auto;
+}
+#selectbtn{
+    background-color:blue;
+    color:white;
+    width:150px;
+}
+#current-date{
+    width:30%;
+}
+
+#user_date, #user_id, .pass-word{
+    width:40%;
+}
+
+#user_name{
+    width:60%;
+}
+#label{
+    background-color:blue;
+    color:white;
+    margin-bottom:0;
+    margin-top:10px;
+
+}
+.usersavebtn{
+    width:100px;
+    height:40px;
+    background-color:blue;
+    color:white;
+    font-size:14px;
+    border-radius: 5%;
+}
+#current_date, #user_name, #user_id, .pass-word{
+    background-color:white;
+    color:red;
+}
+#userdepart{
+    width:150px;
+    font-size:18px;
+}
